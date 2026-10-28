@@ -1,4 +1,4 @@
-# Olga---Episode-1-VR
+# Olga---Episode-1-VR "GOG not tested with Steam"
 VR Mod for Olga - Episode 1
 
 
